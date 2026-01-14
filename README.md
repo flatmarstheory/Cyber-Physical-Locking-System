@@ -1,4 +1,4 @@
- Cyber-Physical "Liveness Lock" System
+# Cyber-Physical "Liveness Lock" System
 
 [![Project Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/YOUR_USERNAME/cps-qr-lock)
 [![Hardware](https://img.shields.io/badge/Hardware-ESP32--CAM-orange)](https://www.espressif.com/en/products/modules/esp32)
